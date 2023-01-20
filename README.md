@@ -5,7 +5,7 @@ Examined the correlation between stock market and various economic factors relat
 
 Sources:
 
--CPI: https://fred.stlouisfed.org
+-CPI, WTI Crude Oil, Avg Hourly Earnings, Unemployment: https://fred.stlouisfed.org
 
 -USD: https://www.investing.com/indices/usdollar-historical-data
 
