@@ -5,8 +5,8 @@ Examined the correlation between stock market and various economic factors relat
 
 Sources:
 
--FRED Graph Observations: https://fred.stlouisfed.org
+-CPI: https://fred.stlouisfed.org
 
--https://www.investing.com/indices/usdollar-historical-data
+-USD: https://www.investing.com/indices/usdollar-historical-data
 
--https://www.wsj.com/market-data/quotes/index/SPX/historical-prices
+-S&P 500: https://www.wsj.com/market-data/quotes/index/SPX/historical-prices
