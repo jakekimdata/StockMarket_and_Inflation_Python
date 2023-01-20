@@ -1,0 +1,2 @@
+# StockMarket_and_Inflation_Python
+Python project
